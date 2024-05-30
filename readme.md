@@ -8,7 +8,7 @@
 
 I'm a passionate software engineer with a strong obsession for coding. I thrive on creating open-source projects and collaborating with the community to build innovative solutions. 
 
-**aboutMe.toJson()**
+**aboutMe.toJSON()**
 ```json
 {
   "name": "Zain ul din",
