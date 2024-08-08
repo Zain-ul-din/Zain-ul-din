@@ -6,7 +6,7 @@
 
 ## 👦 About Me
 
-I'm a passionate software engineer with a strong obsession for coding. I thrive on creating open-source projects and collaborating with the community to build innovative solutions. 
+I'm a passionate software developer with a strong obsession for coding. I thrive on creating open-source projects and collaborating with the community to build innovative solutions. 
 
 **aboutMe.toJSON()**
 ```json
