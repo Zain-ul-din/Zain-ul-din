@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm Zain ul din!
 
-----
+#
 
 [![StandWithPalestine](https://github.com/Safouene1/support-palestine-banner/blob/master/StandWithPalestine.svg)](https://github.com/Safouene1/support-palestine-banner) 
 
@@ -22,7 +22,7 @@ I'm a passionate software developer with a strong obsession for coding. I thrive
 While there are numerous frameworks available to simplify development, I prefer to build things from scratch. This approach not only deepens my understanding of the underlying technologies but also allows me to create highly customized solutions. I am a firm believer in using programming patterns and techniques that enhance our coding practices and improve overall efficiency.
 
 
-----
+#
 
 
 <div align="center">
