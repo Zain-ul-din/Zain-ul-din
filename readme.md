@@ -6,7 +6,7 @@
 
 ## 👦 About Me
 
-I'm a passionate software developer with a strong obsession for coding. I thrive on creating open-source projects and collaborating with the community to build innovative solutions. 
+I'm a passionate software developer who loves coding and building cool stuff! I enjoy working on open-source projects and teaming up with others to solve problems creatively.
 
 **aboutMe.toJSON()**
 ```json
@@ -16,6 +16,14 @@ I'm a passionate software developer with a strong obsession for coding. I thrive
   "favLanguages": ["typescript", "c++", "go"]
 }
 ```
+
+
+## 💻 Technologies I Work With
+
+**Languages**
+
+<img src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" width="70" height="70" />
+
 
 ## 🧠 My Philosophy
 
