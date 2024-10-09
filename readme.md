@@ -57,6 +57,8 @@ I'm a passionate software developer who loves coding and building cool stuff! I 
 
 <img src="https://user-images.githubusercontent.com/25181517/193427941-9437dbbe-376f-40dc-9573-0ef5c02a26a7.png" width="45" height="45"/>
 
+</div>
+
 ### Infrastructure
 
 <div>
@@ -71,6 +73,14 @@ I'm a passionate software developer who loves coding and building cool stuff! I 
 <img src="https://user-images.githubusercontent.com/25181517/183345125-9a7cd2e6-6ad6-436f-8490-44c903bef84c.png" width="50" height="50"/>
 </div>
 
+### Tools
+
+<div>
+  <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" width="45" height="45" />
+<img src="https://user-images.githubusercontent.com/25181517/192108895-20dc3343-43e3-4a54-a90e-13a4abbc57b9.png" width="45" height="45" />
+<img src="https://user-images.githubusercontent.com/25181517/183049794-a3dfaddd-22ee-4ffe-b0b4-549ccd4879f9.png" width="45" height="45" />
+<img src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" width="45" height="45" />
+<img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="45" height="45" />
 </div>
 
 ## 🧠 My Philosophy
