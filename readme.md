@@ -28,7 +28,7 @@ I'm a passionate software developer who loves coding and building cool stuff! I 
 <img src="https://user-images.githubusercontent.com/25181517/192149581-88194d20-1a37-4be8-8801-5dc0017ffbbe.png" width="50" height="50" />
 <img src="https://user-images.githubusercontent.com/25181517/186150304-1568ffdf-4c62-4bdc-9cf1-8d8efcea7c5b.png" width="50" height="50" />
 <img src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" width="50" height="50" />
-<img src="https://user-images.githubusercontent.com/25181517/192599922-3a8ceb1c-ff1d-40bc-b73c-99ea1182d8ad.png" width="50" height="50" />
+<img src="https://github.com/user-attachments/assets/fa3e730d-6c80-4910-85a0-4739eff235c2" width="55" height="55" />
 <img src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png" width"50" height="50" />
 
 </div>
