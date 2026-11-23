@@ -7,6 +7,7 @@ Every card's text is also its alt text, so screen readers, search and AI screene
 
 from __future__ import annotations
 
+import hashlib
 import pathlib
 import re
 import textwrap
@@ -191,8 +192,14 @@ def footer(c) -> str:
 def img(src: str, alt: str, width: str) -> str:
     """Light and dark versions; GitHub picks the one that matches the viewer's GitHub theme."""
     stem = src.removesuffix(".svg")
-    return (f'<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/{stem}-dark.svg">'
-            f'<img src="./assets/{stem}-light.svg" alt="{escape(alt)}" width="{width}" align="top"></picture>')
+    dark, light = f"{stem}-dark.svg", f"{stem}-light.svg"
+    return (f'<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/{dark}?v={version(dark)}">'
+            f'<img src="./assets/{light}?v={version(light)}" alt="{escape(alt)}" width="{width}" align="top"></picture>')
+
+
+def version(name: str) -> str:
+    """Short content hash, so a changed card gets a new URL and browsers skip their cached copy."""
+    return hashlib.sha256((ASSETS / name).read_bytes()).hexdigest()[:8]
 
 
 def build() -> None:
