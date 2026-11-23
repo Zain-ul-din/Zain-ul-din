@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="415" height="158" viewBox="0 0 415 158" role="img" aria-label="The True Cost of AI (Sep 2026)"><title>The True Cost of AI (Sep 2026)</title><style>
+  .bg { fill: #171717; stroke: #2e2e2e; }
+  .fg { fill: #fafafa; }
+  .muted { fill: #a1a1a1; }
+  .rule { stroke: #2e2e2e; }
+  .live { fill: #00d294; }
+  .star { fill: #fcbb00; }
+  .pill { fill: #262626; stroke: #3a3a3a; }
+  .serif { font-family: 'Cooper Lt BT', 'Cooper Light', Georgia, 'Times New Roman', serif; }
+  .sans { font-family: 'Schibsted Grotesk', system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; }
+  .mono { font-family: 'Geist Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; letter-spacing: .08em; }
+</style><rect x="6" y="6" width="403" height="146" rx="14" class="bg"/><text x="26" y="40" font-size="10.5" class="mono muted">SEP 2026</text><text x="26" y="76.0" font-size="20" class="serif fg">The True Cost of AI</text><text x="26" y="130" font-size="11" class="mono fg">READ  →</text></svg>

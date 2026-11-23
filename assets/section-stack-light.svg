@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="830" height="44" viewBox="0 0 830 44" role="img" aria-label="Stack"><title>Stack</title><style>
+  .bg { fill: #ffffff; stroke: #d4d4d4; }
+  .fg { fill: #0a0a0a; }
+  .muted { fill: #6b6b6b; }
+  .rule { stroke: #e5e5e5; }
+  .live { fill: #009767; }
+  .star { fill: #dd7400; }
+  .pill { fill: #f5f5f5; stroke: #d4d4d4; }
+  .serif { font-family: 'Cooper Lt BT', 'Cooper Light', Georgia, 'Times New Roman', serif; }
+  .sans { font-family: 'Schibsted Grotesk', system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; }
+  .mono { font-family: 'Geist Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; letter-spacing: .08em; }
+</style><text x="8" y="30" font-size="12" class="mono muted">STACK</text><line x1="120" y1="26" x2="822" y2="26" class="rule"/></svg>

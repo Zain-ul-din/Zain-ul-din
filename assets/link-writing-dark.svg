@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="207" height="54" viewBox="0 0 207 54" role="img" aria-label="Writing"><title>Writing</title><style>
+  .bg { fill: #171717; stroke: #2e2e2e; }
+  .fg { fill: #fafafa; }
+  .muted { fill: #a1a1a1; }
+  .rule { stroke: #2e2e2e; }
+  .live { fill: #00d294; }
+  .star { fill: #fcbb00; }
+  .pill { fill: #262626; stroke: #3a3a3a; }
+  .serif { font-family: 'Cooper Lt BT', 'Cooper Light', Georgia, 'Times New Roman', serif; }
+  .sans { font-family: 'Schibsted Grotesk', system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; }
+  .mono { font-family: 'Geist Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; letter-spacing: .08em; }
+</style><rect x="6" y="4" width="195" height="46" rx="23" class="pill"/><text x="103" y="32" font-size="12" text-anchor="middle" class="mono fg">WRITING  ↗</text></svg>
