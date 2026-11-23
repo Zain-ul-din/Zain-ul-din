@@ -20,7 +20,7 @@ CONTENT = {
     "name": "Zain Ul Din",
     "role": "FULLSTACK PRODUCT ENGINEER  ·  APPLIED AI",
     "pitch": "I take products from idea to shipped: frontend, backend, AI and deploy.",
-    "meta": "LAHORE, PAKISTAN  ·  REMOTE  ·  360+ ★ ON GITHUB",
+    "meta": "REMOTE  ·  360+ ★ ON GITHUB",
     "links": [
         ("portfolio", "Portfolio", "https://zainuldin.dev"),
         ("linkedin", "LinkedIn", "https://www.linkedin.com/in/zain-ul-din/"),
