@@ -1,12 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="415" height="158" viewBox="0 0 415 158" role="img" aria-label="AI gave me speed. Skills gave me consistency. (Jul 2026)"><title>AI gave me speed. Skills gave me consistency. (Jul 2026)</title><style>
-  .bg { fill: #171717; stroke: #2e2e2e; }
-  .fg { fill: #fafafa; }
-  .muted { fill: #a1a1a1; }
-  .rule { stroke: #2e2e2e; }
-  .live { fill: #00d294; }
-  .star { fill: #fcbb00; }
-  .pill { fill: #262626; stroke: #3a3a3a; }
+  .bg { fill: #0d1117; stroke: #3d444d; }
+  .fg { fill: #f0f6fc; }
+  .muted { fill: #9198a1; }
+  .rule { stroke: #3d444d; }
+  .live { fill: #3fb950; }
+  .star { fill: #d29922; }
+  .link { fill: #4493f8; }
+  .pill { fill: #212830; stroke: #3d444d; }
   .serif { font-family: 'Cooper Lt BT', 'Cooper Light', Georgia, 'Times New Roman', serif; }
   .sans { font-family: 'Schibsted Grotesk', system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; }
   .mono { font-family: 'Geist Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; letter-spacing: .08em; }
-</style><rect x="6" y="6" width="403" height="146" rx="14" class="bg"/><text x="26" y="40" font-size="10.5" class="mono muted">JUL 2026</text><text x="26" y="76.0" font-size="20" class="serif fg">AI gave me speed. Skills gave me</text><text x="26" y="102.0" font-size="20" class="serif fg">consistency.</text><text x="26" y="130" font-size="11" class="mono fg">READ  →</text></svg>
+</style><rect x="6" y="6" width="403" height="146" rx="14" class="bg"/><text x="26" y="40" font-size="10.5" class="mono muted">JUL 2026</text><text x="26" y="76.0" font-size="20" class="serif fg">AI gave me speed. Skills gave me</text><text x="26" y="102.0" font-size="20" class="serif fg">consistency.</text><text x="26" y="130" font-size="11" class="mono link">READ  →</text></svg>

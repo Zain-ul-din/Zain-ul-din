@@ -1,12 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="415" height="208" viewBox="0 0 415 208" role="img" aria-label="Control Wrestling Assistant: Practice planning for US wrestling coaches: drag-and-drop plans, rosters and AI drill generation. (client, next.js, postgresql)"><title>Control Wrestling Assistant: Practice planning for US wrestling coaches: drag-and-drop plans, rosters and AI drill generation. (client, next.js, postgresql)</title><style>
-  .bg { fill: #ffffff; stroke: #d4d4d4; }
-  .fg { fill: #0a0a0a; }
-  .muted { fill: #6b6b6b; }
-  .rule { stroke: #e5e5e5; }
-  .live { fill: #009767; }
-  .star { fill: #dd7400; }
-  .pill { fill: #f5f5f5; stroke: #d4d4d4; }
+<svg xmlns="http://www.w3.org/2000/svg" width="415" height="208" viewBox="0 0 415 208" role="img" aria-label="LGU Timetable: A fast, unofficial timetable site for Lahore Garrison University students, fed by a crawler of the official one. (open source, typescript)"><title>LGU Timetable: A fast, unofficial timetable site for Lahore Garrison University students, fed by a crawler of the official one. (open source, typescript)</title><style>
+  .bg { fill: #ffffff; stroke: #d1d9e0; }
+  .fg { fill: #1f2328; }
+  .muted { fill: #59636e; }
+  .rule { stroke: #d1d9e0; }
+  .live { fill: #1a7f37; }
+  .star { fill: #9a6700; }
+  .link { fill: #0969da; }
+  .pill { fill: #f6f8fa; stroke: #d1d9e0; }
   .serif { font-family: 'Cooper Lt BT', 'Cooper Light', Georgia, 'Times New Roman', serif; }
   .sans { font-family: 'Schibsted Grotesk', system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; }
   .mono { font-family: 'Geist Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; letter-spacing: .08em; }
-</style><rect x="6" y="6" width="403" height="196" rx="14" class="bg"/><text x="26" y="42" font-size="10.5" class="mono muted">CLIENT  ·  NEXT.JS  ·  POSTGRESQL</text><circle cx="349.6" cy="38" r="4" class="live"/><text x="392" y="42" font-size="11" text-anchor="end" class="mono live">LIVE</text><text x="25" y="82" font-size="25" class="serif fg">Control Wrestling Assistant</text><text x="26" y="110.0" font-size="14" class="sans muted">Practice planning for US wrestling coaches:</text><text x="26" y="130.0" font-size="14" class="sans muted">drag-and-drop plans, rosters and AI drill</text><text x="26" y="150.0" font-size="14" class="sans muted">generation.</text><text x="26" y="184" font-size="11" class="mono fg">VISIT SITE  →</text></svg>
+</style><rect x="6" y="6" width="403" height="196" rx="14" class="bg"/><text x="26" y="42" font-size="10.5" class="mono muted">OPEN SOURCE  ·  TYPESCRIPT</text><text x="392" y="42" font-size="11" text-anchor="end" class="mono star">25 ★</text><text x="25" y="82" font-size="25" class="serif fg">LGU Timetable</text><text x="26" y="110.0" font-size="14" class="sans muted">A fast, unofficial timetable site for Lahore</text><text x="26" y="130.0" font-size="14" class="sans muted">Garrison University students, fed by a crawler of</text><text x="26" y="150.0" font-size="14" class="sans muted">the official one.</text><text x="26" y="184" font-size="11" class="mono link">VIEW CODE  →</text></svg>

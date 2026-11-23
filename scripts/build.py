@@ -44,20 +44,20 @@ CONTENT = {
             "url": "https://github.com/Zain-ul-din/background-job-agent",
         },
         {
-            "label": "CLIENT  ·  NEXT.JS  ·  POSTGRESQL",
-            "badge": ("live", "LIVE"),
-            "title": "Control Wrestling Assistant",
-            "text": "Practice planning for US wrestling coaches: drag-and-drop plans, rosters and AI drill generation.",
-            "cta": "Visit site",
-            "url": "https://controlwrestlingassistant.com",
+            "label": "OPEN SOURCE  ·  TYPESCRIPT",
+            "badge": ("star", "25 ★"),
+            "title": "LGU Timetable",
+            "text": "A fast, unofficial timetable site for Lahore Garrison University students, fed by a crawler of the official one.",
+            "cta": "View code",
+            "url": "https://github.com/Zain-ul-din/LGU-Timetable",
         },
         {
-            "label": "PRODUCT  ·  NEXT.JS  ·  SUPABASE",
+            "label": "OPEN SOURCE  ·  NEXT.JS  ·  AI",
             "badge": ("live", "LIVE"),
-            "title": "Findio.pk",
-            "text": "A community-voted directory of Pakistani tech products.",
-            "cta": "Visit site",
-            "url": "https://findio.pk",
+            "title": "review-ai",
+            "text": "An AI tool that helps businesses collect customer reviews quickly.",
+            "cta": "View code",
+            "url": "https://github.com/Zain-ul-din/review-ai",
         },
     ],
     "stack": [
@@ -75,12 +75,13 @@ CONTENT = {
     "footer_text": "Say hi at zainuldin.dev or zainuldin.dev@gmail.com",
 }
 
-# Colors and type from zainuldin.dev: neutral monochrome, a serif display face, mono labels.
+# Colors from GitHub's Primer themes, so the cards sit flush on the profile page in light and dark.
+# Type from zainuldin.dev: a serif display face, mono labels, a plain sans for body text.
 PALETTES = {
-    "light": dict(bg="#ffffff", stroke="#d4d4d4", fg="#0a0a0a", muted="#6b6b6b", rule="#e5e5e5",
-                  live="#009767", star="#dd7400", pill="#f5f5f5", pill_stroke="#d4d4d4"),
-    "dark": dict(bg="#171717", stroke="#2e2e2e", fg="#fafafa", muted="#a1a1a1", rule="#2e2e2e",
-                 live="#00d294", star="#fcbb00", pill="#262626", pill_stroke="#3a3a3a"),
+    "light": dict(bg="#ffffff", stroke="#d1d9e0", fg="#1f2328", muted="#59636e", rule="#d1d9e0",
+                  live="#1a7f37", star="#9a6700", link="#0969da", pill="#f6f8fa", pill_stroke="#d1d9e0"),
+    "dark": dict(bg="#0d1117", stroke="#3d444d", fg="#f0f6fc", muted="#9198a1", rule="#3d444d",
+                 live="#3fb950", star="#d29922", link="#4493f8", pill="#212830", pill_stroke="#3d444d"),
 }
 
 
@@ -93,6 +94,7 @@ def style(theme: str) -> str:
   .rule {{ stroke: {c['rule']}; }}
   .live {{ fill: {c['live']}; }}
   .star {{ fill: {c['star']}; }}
+  .link {{ fill: {c['link']}; }}
   .pill {{ fill: {c['pill']}; stroke: {c['pill_stroke']}; }}
   .serif {{ font-family: 'Cooper Lt BT', 'Cooper Light', Georgia, 'Times New Roman', serif; }}
   .sans {{ font-family: 'Schibsted Grotesk', system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; }}
@@ -150,7 +152,7 @@ def project(p) -> str:
         '<rect x="6" y="6" width="403" height="196" rx="14" class="bg"/>'
         f'<text x="26" y="42" font-size="10.5" class="mono muted">{escape(p["label"])}</text>{badge_svg}'
         f'<text x="25" y="82" font-size="25" class="serif fg">{escape(p["title"])}</text>{desc}'
-        f'<text x="26" y="184" font-size="11" class="mono fg">{escape(p["cta"].upper())}  →</text>'
+        f'<text x="26" y="184" font-size="11" class="mono link">{escape(p["cta"].upper())}  →</text>'
     )
     return svg(415, 208, body, f'{p["title"]}: {p["text"]} ({p["label"].replace("  ·  ", ", ").lower()})')
 
@@ -172,7 +174,7 @@ def post(date: str, title: str) -> str:
     body = (
         '<rect x="6" y="6" width="403" height="146" rx="14" class="bg"/>'
         f'<text x="26" y="40" font-size="10.5" class="mono muted">{escape(date)}</text>{t}'
-        '<text x="26" y="130" font-size="11" class="mono fg">READ  →</text>'
+        '<text x="26" y="130" font-size="11" class="mono link">READ  →</text>'
     )
     return svg(415, 158, body, f"{title} ({date.title()})")
 

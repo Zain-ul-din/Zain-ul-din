@@ -1,11 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="830" height="220" viewBox="0 0 830 220" role="img" aria-label="Zain Ul Din, FULLSTACK PRODUCT ENGINEER  ·  APPLIED AI. I take products from idea to shipped: frontend, backend, AI and deploy."><title>Zain Ul Din, FULLSTACK PRODUCT ENGINEER  ·  APPLIED AI. I take products from idea to shipped: frontend, backend, AI and deploy.</title><style>
-  .bg { fill: #171717; stroke: #2e2e2e; }
-  .fg { fill: #fafafa; }
-  .muted { fill: #a1a1a1; }
-  .rule { stroke: #2e2e2e; }
-  .live { fill: #00d294; }
-  .star { fill: #fcbb00; }
-  .pill { fill: #262626; stroke: #3a3a3a; }
+  .bg { fill: #0d1117; stroke: #3d444d; }
+  .fg { fill: #f0f6fc; }
+  .muted { fill: #9198a1; }
+  .rule { stroke: #3d444d; }
+  .live { fill: #3fb950; }
+  .star { fill: #d29922; }
+  .link { fill: #4493f8; }
+  .pill { fill: #212830; stroke: #3d444d; }
   .serif { font-family: 'Cooper Lt BT', 'Cooper Light', Georgia, 'Times New Roman', serif; }
   .sans { font-family: 'Schibsted Grotesk', system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; }
   .mono { font-family: 'Geist Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; letter-spacing: .08em; }
