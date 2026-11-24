@@ -45,20 +45,20 @@ CONTENT = {
             "url": "https://github.com/Zain-ul-din/background-job-agent",
         },
         {
+            "label": "OPEN SOURCE  ·  NEXT.JS  ·  AI",
+            "badge": ("plain", "32 EVAL CASES"),
+            "title": "Levaina",
+            "text": "AI gut-care coach that logs meals and symptoms from chat, remembers what matters, and is tested like code.",
+            "cta": "View code",
+            "url": "https://github.com/Zain-ul-din/levaina",
+        },
+        {
             "label": "OPEN SOURCE  ·  REACT  ·  CHAKRA UI",
             "badge": ("plain", "ADMIN PANEL"),
             "title": "BAP Admin",
             "text": "Admin dashboard for a private ambulance service: organizations, admins, ambulance fleet and CSV imports.",
             "cta": "View code",
             "url": "https://github.com/Zain-ul-din/bap-admin",
-        },
-        {
-            "label": "OPEN SOURCE  ·  NEXT.JS",
-            "badge": ("plain", "AI TOOL"),
-            "title": "review-ai",
-            "text": "An AI tool that helps businesses collect customer reviews quickly.",
-            "cta": "View code",
-            "url": "https://github.com/Zain-ul-din/review-ai",
         },
     ],
     "stack": [
